@@ -3,7 +3,8 @@ public class Sum {
     // variables
    int a = 10;
    int b = 40;
-   int sum = a + b;
+   int c = 10;
+   int sum = a + b + c;
    System.out.println(sum);
    }
 }
